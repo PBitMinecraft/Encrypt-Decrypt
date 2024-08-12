@@ -11,7 +11,7 @@ python Encrypt-Decrypt.pyw encrypt example.file
 python Encrypt-Decrypt.pyw decrypt example.file
 ```
 
-To use the executable:
+To use the exe:
 
 ```bash
 Encrypt-Decrypt.exe encrypt example.file
